@@ -8,3 +8,24 @@ moving in the red arrow direction and how many crossed while moving in the green
 <img src="images/parking.png" alt="drawing" width="400"/>
 
 ## detecting the cars in the image
+Find background using a Gaussian model
+
+Subtract background
+
+Morphologically open image
+
+Morphologically close image
+
+Fill image regions and holes
+
+Filter by size
+
+Remove Images Classified as non Cars
+
+
+
+<img src="images/1.png" alt="drawing" width="400"/>
+<img src="images/2.png" alt="drawing" width="400"/>
+<img src="images/3.png" alt="drawing" width="400"/>
+<img src="images/4.png" alt="drawing" width="400"/>
+<img src="images/5.png" alt="drawing" width="400"/>
