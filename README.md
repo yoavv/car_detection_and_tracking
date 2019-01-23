@@ -9,24 +9,24 @@ moving in the red arrow direction and how many crossed while moving in the green
 
 ## detecting the cars in the image
 Find background using a Gaussian model
+<img src="images/1.jpg" alt="drawing" width="200"/>
 
 Subtract background
+<img src="images/2.jpg" alt="drawing" width="200"/>
 
 Morphologically open image
+<img src="images/3.jpg" alt="drawing" width="200"/>
 
 Morphologically close image
+<img src="images/4.jpg" alt="drawing" width="200"/>
 
 Fill image regions and holes
+<img src="images/5.jpg" alt="drawing" width="200"/>
 
 Filter by size
+<img src="images/6.jpg" alt="drawing" width="200"/>
 
 Remove Images Classified as non Cars
 
 
 
-<img src="images/1.jpg" alt="drawing" width="200"/>
-<img src="images/2.jpg" alt="drawing" width="200"/>
-<img src="images/3.jpg" alt="drawing" width="200"/>
-<img src="images/4.jpg" alt="drawing" width="200"/>
-<img src="images/5.jpg" alt="drawing" width="200"/>
-<img src="images/6.jpg" alt="drawing" width="200"/>
