@@ -6,3 +6,5 @@ For example, in the frame below, we would like to know how many vehicles crossed
 moving in the red arrow direction and how many crossed while moving in the green arrow direction.
 
 <img src="parking.png" alt="drawing" width="400"/>
+
+## detecting the cars in the image
