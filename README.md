@@ -37,15 +37,16 @@ Remove Images Classified as non Cars
 ## Track Cars From Previous Frames
 Compare 3 key features:
 
-	Car orientation change
+Car orientation change
   
-	Position change
+Position change
   
-	Color similarity
+Color similarity
   
 
 If a match is not found a new car is created
 
+<img src="images/tracking.jpg" alt="drawing" width="600"/>
 
 
 
