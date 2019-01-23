@@ -46,7 +46,7 @@ Color similarity
 
 If a match is not found a new car is created
 
-<img src="images/tracking.jpg" alt="drawing" width="600"/>
+<img src="images/tracking.png" alt="drawing" width="600"/>
 
 
 
