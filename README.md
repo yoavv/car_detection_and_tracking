@@ -24,8 +24,8 @@ Remove Images Classified as non Cars
 
 
 
-<img src="images/1.png" alt="drawing" width="400"/>
-<img src="images/2.png" alt="drawing" width="400"/>
-<img src="images/3.png" alt="drawing" width="400"/>
-<img src="images/4.png" alt="drawing" width="400"/>
-<img src="images/5.png" alt="drawing" width="400"/>
+<img src="images/1.jpg" alt="drawing" width="400"/>
+<img src="images/2.jpg" alt="drawing" width="400"/>
+<img src="images/3.jpg" alt="drawing" width="400"/>
+<img src="images/4.jpg" alt="drawing" width="400"/>
+<img src="images/5.jpg" alt="drawing" width="400"/>
