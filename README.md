@@ -34,6 +34,18 @@ Filter by size
 
 Remove Images Classified as non Cars
 
+## Track Cars From Previous Frames
+Compare 3 key features:
+
+	Car orientation change
+  
+	Position change
+  
+	Color similarity
+  
+
+If a match is not found a new car is created
+
 
 
 
