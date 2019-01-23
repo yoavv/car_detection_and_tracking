@@ -5,4 +5,4 @@ crossing it.
 For example, in the frame below, we would like to know how many vehicles crossed the blue line while
 moving in the red arrow direction and how many crossed while moving in the green arrow direction.
 
-![](parking.png)
+![](parking.png=50x50)
