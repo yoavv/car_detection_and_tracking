@@ -1,4 +1,4 @@
-# car_detection_and_tracking
+# Car Detection & Tracking
 
 We would like to measure how many vehicles cross a certain line and their movement direction while
 crossing it.
